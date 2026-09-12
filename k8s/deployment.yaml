@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: thulasiramkarlapudi/gitops-demo:v1
+          image: thulasiramkarlapudi/gitops-demo:v2
           ports:
             - containerPort: 80
